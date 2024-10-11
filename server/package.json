@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "\"This clone of meesho e-commerce website\"",
   "main": "server.js",
+  "type":"module",
   "scripts": {
+    "start":"node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "santosh kumar yadav",
